@@ -1,4 +1,5 @@
-package PBO;
+package PBO.Latihan;
+
 
 public class Buku{
     String judul, penerbit, Diskon;

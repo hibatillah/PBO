@@ -1,4 +1,4 @@
-package PBO;
+package PBO.Latihan;
 
 public class TestBuku {
     public static void main(String[] args) {

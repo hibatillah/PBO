@@ -1,4 +1,4 @@
-package PBO.Latihan;
+package Latihan;
 
 import javax.swing.JOptionPane;
 
