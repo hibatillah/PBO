@@ -6,8 +6,8 @@ public class Bola {
     public final double pi = 3.14;
 
     public Bola(){
-        jari = 4;
-        jenis = "Bola pimpong";
+        jari = 0;
+        jenis = null;
     }
 
     public double getJari() {
