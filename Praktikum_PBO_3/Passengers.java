@@ -18,7 +18,7 @@ public class Passengers {
 
         if (age<3){
             desc = "Penumpang tidak dikenakan biaya";
-        } else if (age>=3 || age<=5){
+        } else if (age>=3 && age<=5){
             desc = "Penumpang ini dikenakan biaya sebesar 70% dari total";
         } else if (age>5){
             desc = "Biaya full";
