@@ -15,7 +15,6 @@ public class TestPassengers {
         for (i=0; i<n; i++){
             JOptionPane.showMessageDialog(null, "Penumpang "+(i+1));
             p[i].getData();
-            System.out.println();
         }
 
         System.out.println("Data Penumpang");
